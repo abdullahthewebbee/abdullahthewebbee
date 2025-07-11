@@ -11,10 +11,6 @@
  
  🌱 I’m currently learning **AI, ML, AWS**
 
-💬 Ask me about **MERN, Django, SQL... or anything [here]([https://github.com/abdullahthewebbee/abdullahthewebbee/issues](https://github.com/abdullahthewebbee/abdullahthewebbee/issues))**
-
-
-
  </div>
  
 <div align="center"> 
