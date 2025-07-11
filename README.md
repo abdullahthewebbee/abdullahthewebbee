@@ -10,17 +10,6 @@
 
 </div>
 
-<style>
-@keyframes fadeOut {
-  0% { opacity: 1; }
-  100% { opacity: 0; display: none; }
-}
-
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+I+am+Muhammad+Abdullah+✨;A+Creative+Full-Stack+Engineer+from+Pakistan!" alt="Typing SVG" />
