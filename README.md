@@ -11,9 +11,9 @@
  
  🌱 I’m currently learning **AI, ML, AWS**
 
-💬 Ask me about **MERN, Django, SQ... or anything [here]([https://github.com/abdullahthewebbee/abdullahthewebbee/issues](https://github.com/abdullahthewebbee/abdullahthewebbee/issues))**
+💬 Ask me about **MERN, Django, SQL... or anything [here]([https://github.com/abdullahthewebbee/abdullahthewebbee/issues](https://github.com/abdullahthewebbee/abdullahthewebbee/issues))**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 
  </div>
  
