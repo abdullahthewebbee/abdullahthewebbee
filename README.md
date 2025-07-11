@@ -11,9 +11,24 @@
 </div>
 
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+I+am+Muhammad+Abdullah+✨;A+Creative+Full-Stack+Engineer+from+Pakistan!" alt="Typing SVG" />
-</h2>
+<div align="center">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+             font-size: 2.2em; 
+             color: #00C3FF; 
+             font-weight: bold; 
+             animation: fadeInUp 2s ease-in-out forwards;">
+    ✨ I am Muhammad Abdullah ✨
+  </h1>
+
+  <p style="font-size: 1.3em; 
+            color: #888; 
+            margin-top: 10px; 
+            animation: fadeInUp 2s ease-in-out 1s forwards; 
+            opacity: 0;">
+    A Creative Full-Stack Engineer from Pakistan!
+  </p>
+</div>
+
 
 <br/>
 
