@@ -1,4 +1,26 @@
-<h1 align="center">Hi there 👋</h1>
+<div align="center">
+
+  <h1 id="first-text" style="animation: fadeOut 3s ease-in-out forwards;">
+    Hi there 👋
+  </h1>
+
+  <h1 id="second-text" style="opacity: 0; animation: fadeIn 3s 3s ease-in-out forwards; font-weight: bold; color: #00C3FF;">
+    ✨ I am Muhammad Abdullah ✨
+  </h1>
+
+</div>
+
+<style>
+@keyframes fadeOut {
+  0% { opacity: 1; }
+  100% { opacity: 0; display: none; }
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+I+am+Muhammad+Abdullah+✨;A+Creative+Full-Stack+Engineer+from+Pakistan!" alt="Typing SVG" />
