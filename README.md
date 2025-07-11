@@ -4,9 +4,7 @@
     Hi there 👋
   </h1>
 
-  <h1 id="second-text" style="opacity: 0; animation: fadeIn 3s 3s ease-in-out forwards; font-weight: bold; color: #00C3FF;">
-    ✨ I am Muhammad Abdullah ✨
-  </h1>
+ 
 
 </div>
 
