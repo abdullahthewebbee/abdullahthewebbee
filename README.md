@@ -23,7 +23,7 @@
             margin-top: 10px; 
             animation: fadeInUp 2s ease-in-out 1s forwards; 
             opacity: 0;">
-    A Creative Full-Stack Engineer from Pakistan!
+    A Creative Full-Stack Engineer from US!
   </p>
 </div>
 
