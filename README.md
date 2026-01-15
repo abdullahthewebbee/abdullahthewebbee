@@ -91,7 +91,7 @@
 - 🎯 I aim to build scalable and meaningful digital products.
 - 💬 I love discussing systems, automation, and startup growth.
 - 🎮 I’m also passionate about game development (Unity, Kaboom.js).
-- 🌍 Based in Pakistan, collaborating worldwide 🌐
+- 🌍 Based in US, collaborating worldwide 🌐
 
 ---
 
